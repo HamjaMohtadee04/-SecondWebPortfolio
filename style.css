@@ -1,4 +1,5 @@
 body{
+    margin: 0;
     font-family: 'Roboto Slab', serif;
 }
 h1{
@@ -18,7 +19,7 @@ h1{
     padding-left: 2%;
 }
 .half-width img{
-    width: 70%;
+    width: 50%;
 }
 .link-button{
     line-height: 0.5;
@@ -29,3 +30,54 @@ h1{
     border-radius: 5px;
     color: white;
     font-weight: 700;
+}
+.highlight{
+    color: tomato;
+}
+.single{
+    box-shadow:10px 10px 10px 30px white;
+    border-radius: 5px;
+    height: 20%;
+}
+.experience{
+    text-align: center;
+}
+.img{
+    height: 50%;
+    width: 15%;
+}
+section{
+    height: 500px;
+}
+.last{
+    width: 100%;
+    height:550px;
+}
+.wi{
+    width: 906px;
+    height: 225px;
+    background-image: url("images/Group_33094_1.png");
+    background-size: cover;
+    margin: 0 auto;
+}
+.work{
+    color: white;
+    width: 70%;
+    float: left;
+    line-height: 225px;
+}
+.button{
+    width: 30%;
+    float: right;
+    line-height: 166px;
+}
+.co{
+    color: rgb(230, 149, 149);
+    text-align: center;
+}
+.lg{
+    text-align: center;
+}
+.line{
+    height: 2px;
+}
