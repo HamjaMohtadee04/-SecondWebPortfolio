@@ -81,3 +81,6 @@ section{
 .line{
     height: 2px;
 }
+footer p{
+    text-align: center;
+}
